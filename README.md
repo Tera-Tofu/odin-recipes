@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic mock up of a recipe website. It is an example of page formatting, linking and resizing images, as well as usuing different types of lists. I opted for lorem ipsum as to not spend too much time on creative writing and focus on the code itself.
